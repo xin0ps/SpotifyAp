@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\Addplaylist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\FirstWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LibraryPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LoginPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainWindowView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Register.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SearchPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Verification.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\Addplaylist.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\FirstWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LibraryPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LoginPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindowView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Register.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SearchPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Verification.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1416 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=sen+ey+gozel&type=track&offset=0&limit=20",
+    "items" : [ {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3SkUvBtzrTwqNLNDP1zyeh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3SkUvBtzrTwqNLNDP1zyeh",
+          "id" : "3SkUvBtzrTwqNLNDP1zyeh",
+          "name" : "ALIREZA",
+          "type" : "artist",
+          "uri" : "spotify:artist:3SkUvBtzrTwqNLNDP1zyeh"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7dXpgisfwDRcPPHbA1LaxO"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7dXpgisfwDRcPPHbA1LaxO",
+        "id" : "7dXpgisfwDRcPPHbA1LaxO",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2731f4f4862d1fcb496265d02ba",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e021f4f4862d1fcb496265d02ba",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048511f4f4862d1fcb496265d02ba",
+          "width" : 64
+        } ],
+        "name" : "Battım Ben",
+        "release_date" : "2022-09-10",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:7dXpgisfwDRcPPHbA1LaxO"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3SkUvBtzrTwqNLNDP1zyeh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3SkUvBtzrTwqNLNDP1zyeh",
+        "id" : "3SkUvBtzrTwqNLNDP1zyeh",
+        "name" : "ALIREZA",
+        "type" : "artist",
+        "uri" : "spotify:artist:3SkUvBtzrTwqNLNDP1zyeh"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 252778,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCAGK2286480"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7ju73R9GlzlU5UPXQ5iG02"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7ju73R9GlzlU5UPXQ5iG02",
+      "id" : "7ju73R9GlzlU5UPXQ5iG02",
+      "is_local" : false,
+      "name" : "Battım Ben",
+      "popularity" : 5,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a3c3d796bdf9972e8d15144fe3882ab8740a55e1?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7ju73R9GlzlU5UPXQ5iG02"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2aNkBNOpoEwJlRpDLzJ6hZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2aNkBNOpoEwJlRpDLzJ6hZ",
+          "id" : "2aNkBNOpoEwJlRpDLzJ6hZ",
+          "name" : "Seda Tripkolic",
+          "type" : "artist",
+          "uri" : "spotify:artist:2aNkBNOpoEwJlRpDLzJ6hZ"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5ir0jQtGzscPEawzqa6JzI"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5ir0jQtGzscPEawzqa6JzI",
+        "id" : "5ir0jQtGzscPEawzqa6JzI",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273db0113e8059e1e09117442d7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02db0113e8059e1e09117442d7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851db0113e8059e1e09117442d7",
+          "width" : 64
+        } ],
+        "name" : "Gözleri Var Ya",
+        "release_date" : "2020-12-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:5ir0jQtGzscPEawzqa6JzI"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2aNkBNOpoEwJlRpDLzJ6hZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2aNkBNOpoEwJlRpDLzJ6hZ",
+        "id" : "2aNkBNOpoEwJlRpDLzJ6hZ",
+        "name" : "Seda Tripkolic",
+        "type" : "artist",
+        "uri" : "spotify:artist:2aNkBNOpoEwJlRpDLzJ6hZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5NtIOfNyPNLgha0FwPCvKV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5NtIOfNyPNLgha0FwPCvKV",
+        "id" : "5NtIOfNyPNLgha0FwPCvKV",
+        "name" : "Güven Yüreyi",
+        "type" : "artist",
+        "uri" : "spotify:artist:5NtIOfNyPNLgha0FwPCvKV"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 164006,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TR0432004185"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5NY5NkdyrtRgjpcsVO3sgv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5NY5NkdyrtRgjpcsVO3sgv",
+      "id" : "5NY5NkdyrtRgjpcsVO3sgv",
+      "is_local" : false,
+      "name" : "Gözleri Var Ya",
+      "popularity" : 55,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b10e3412f0d3201005450b9c63f9db470043bc19?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5NY5NkdyrtRgjpcsVO3sgv"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4w6bRcjuYmJtOIdoV8TSzO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4w6bRcjuYmJtOIdoV8TSzO",
+          "id" : "4w6bRcjuYmJtOIdoV8TSzO",
+          "name" : "Kaiser Fantasy",
+          "type" : "artist",
+          "uri" : "spotify:artist:4w6bRcjuYmJtOIdoV8TSzO"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1MOgrSmVwakCxzfc2xp4tY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1MOgrSmVwakCxzfc2xp4tY",
+        "id" : "1MOgrSmVwakCxzfc2xp4tY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273e7c818717abdf8cbf1f90ccd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02e7c818717abdf8cbf1f90ccd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851e7c818717abdf8cbf1f90ccd",
+          "width" : 64
+        } ],
+        "name" : "Aşk Yarası",
+        "release_date" : "2020-12-25",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:1MOgrSmVwakCxzfc2xp4tY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4w6bRcjuYmJtOIdoV8TSzO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4w6bRcjuYmJtOIdoV8TSzO",
+        "id" : "4w6bRcjuYmJtOIdoV8TSzO",
+        "name" : "Kaiser Fantasy",
+        "type" : "artist",
+        "uri" : "spotify:artist:4w6bRcjuYmJtOIdoV8TSzO"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 236000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZPLR2009210"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3ZQtw76AW5sbq0pcB43B51"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3ZQtw76AW5sbq0pcB43B51",
+      "id" : "3ZQtw76AW5sbq0pcB43B51",
+      "is_local" : false,
+      "name" : "Aşk Yarası",
+      "popularity" : 2,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8221d5990c7637dc0ba24256afbafc9c2943240e?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3ZQtw76AW5sbq0pcB43B51"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1BSfM3XPdbrg7onPRt9MkJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1BSfM3XPdbrg7onPRt9MkJ",
+          "id" : "1BSfM3XPdbrg7onPRt9MkJ",
+          "name" : "EKT&TBA",
+          "type" : "artist",
+          "uri" : "spotify:artist:1BSfM3XPdbrg7onPRt9MkJ"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6M3rqk2WzFPnNMPAFOIOZW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6M3rqk2WzFPnNMPAFOIOZW",
+        "id" : "6M3rqk2WzFPnNMPAFOIOZW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732fd219ec81a3b7c99a4940ce",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022fd219ec81a3b7c99a4940ce",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512fd219ec81a3b7c99a4940ce",
+          "width" : 64
+        } ],
+        "name" : "Gözlerinde Kayboluyorum",
+        "release_date" : "2023-10-27",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:6M3rqk2WzFPnNMPAFOIOZW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1BSfM3XPdbrg7onPRt9MkJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1BSfM3XPdbrg7onPRt9MkJ",
+        "id" : "1BSfM3XPdbrg7onPRt9MkJ",
+        "name" : "EKT&TBA",
+        "type" : "artist",
+        "uri" : "spotify:artist:1BSfM3XPdbrg7onPRt9MkJ"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 123274,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZTB92345360"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0Dzeu4LbfmaAH94iHoLWuL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0Dzeu4LbfmaAH94iHoLWuL",
+      "id" : "0Dzeu4LbfmaAH94iHoLWuL",
+      "is_local" : false,
+      "name" : "Gözlerinde Kayboluyorum",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/1bc2e0aec5fa504b9de5fb4f8cee616bc3b3b7d5?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0Dzeu4LbfmaAH94iHoLWuL"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0zc7A5qqB9OfHhZByk0Q6S"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0zc7A5qqB9OfHhZByk0Q6S",
+          "id" : "0zc7A5qqB9OfHhZByk0Q6S",
+          "name" : "Aygün Bayramova",
+          "type" : "artist",
+          "uri" : "spotify:artist:0zc7A5qqB9OfHhZByk0Q6S"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/26ukciReO9O1QT215av1Wc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/26ukciReO9O1QT215av1Wc",
+        "id" : "26ukciReO9O1QT215av1Wc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273363a67191dc20bc8fbb6d376",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02363a67191dc20bc8fbb6d376",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851363a67191dc20bc8fbb6d376",
+          "width" : 64
+        } ],
+        "name" : "İfalar, Vol. 1",
+        "release_date" : "2023-09-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:26ukciReO9O1QT215av1Wc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0zc7A5qqB9OfHhZByk0Q6S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0zc7A5qqB9OfHhZByk0Q6S",
+        "id" : "0zc7A5qqB9OfHhZByk0Q6S",
+        "name" : "Aygün Bayramova",
+        "type" : "artist",
+        "uri" : "spotify:artist:0zc7A5qqB9OfHhZByk0Q6S"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 257358,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "DGA092354145"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7yMsCeYEMfQY0LfCRAzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7yMsCeYEMfQY0LfCRAzOi3",
+      "id" : "7yMsCeYEMfQY0LfCRAzOi3",
+      "is_local" : false,
+      "name" : "Güləsən Gərək",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/10743c3ad549f648a031f4b642657bd57fdd1173?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:7yMsCeYEMfQY0LfCRAzOi3"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0xKRMHUlYKY0uZxPFtj2CR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0xKRMHUlYKY0uZxPFtj2CR",
+          "id" : "0xKRMHUlYKY0uZxPFtj2CR",
+          "name" : "MAW",
+          "type" : "artist",
+          "uri" : "spotify:artist:0xKRMHUlYKY0uZxPFtj2CR"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/4Yy2eKXkhXfJikpKNzzD5J"
+        },
+        "href" : "https://api.spotify.com/v1/albums/4Yy2eKXkhXfJikpKNzzD5J",
+        "id" : "4Yy2eKXkhXfJikpKNzzD5J",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27342fb8484e1cafa5601cf7cb4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0242fb8484e1cafa5601cf7cb4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485142fb8484e1cafa5601cf7cb4",
+          "width" : 64
+        } ],
+        "name" : "Sen",
+        "release_date" : "2021-06-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:4Yy2eKXkhXfJikpKNzzD5J"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0xKRMHUlYKY0uZxPFtj2CR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0xKRMHUlYKY0uZxPFtj2CR",
+        "id" : "0xKRMHUlYKY0uZxPFtj2CR",
+        "name" : "MAW",
+        "type" : "artist",
+        "uri" : "spotify:artist:0xKRMHUlYKY0uZxPFtj2CR"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 226285,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "EEHU32000633"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4JDRRF45TzLEcR3HuoWakp"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4JDRRF45TzLEcR3HuoWakp",
+      "id" : "4JDRRF45TzLEcR3HuoWakp",
+      "is_local" : false,
+      "name" : "Sen",
+      "popularity" : 61,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a72b5d5d3b60ba188cae39872db65d132cc3d199?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4JDRRF45TzLEcR3HuoWakp"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/590pbvfkX7HJizYF3fI2Zr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/590pbvfkX7HJizYF3fI2Zr",
+          "id" : "590pbvfkX7HJizYF3fI2Zr",
+          "name" : "Mami",
+          "type" : "artist",
+          "uri" : "spotify:artist:590pbvfkX7HJizYF3fI2Zr"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6qW5VZHYR7qBWzSB0TbRFN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6qW5VZHYR7qBWzSB0TbRFN",
+        "id" : "6qW5VZHYR7qBWzSB0TbRFN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734daad23f584de98206b6b951",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024daad23f584de98206b6b951",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514daad23f584de98206b6b951",
+          "width" : 64
+        } ],
+        "name" : "KADIKÖY",
+        "release_date" : "2023-03-07",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:6qW5VZHYR7qBWzSB0TbRFN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/590pbvfkX7HJizYF3fI2Zr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/590pbvfkX7HJizYF3fI2Zr",
+        "id" : "590pbvfkX7HJizYF3fI2Zr",
+        "name" : "Mami",
+        "type" : "artist",
+        "uri" : "spotify:artist:590pbvfkX7HJizYF3fI2Zr"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 205958,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "QZDA72387866"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/39SyIH7ueYvmphPiZCSKQO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/39SyIH7ueYvmphPiZCSKQO",
+      "id" : "39SyIH7ueYvmphPiZCSKQO",
+      "is_local" : false,
+      "name" : "KADIKÖY",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ad3bd866c42efe0bd182195d50f9d0e18143fb87?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:39SyIH7ueYvmphPiZCSKQO"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2aNkBNOpoEwJlRpDLzJ6hZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2aNkBNOpoEwJlRpDLzJ6hZ",
+          "id" : "2aNkBNOpoEwJlRpDLzJ6hZ",
+          "name" : "Seda Tripkolic",
+          "type" : "artist",
+          "uri" : "spotify:artist:2aNkBNOpoEwJlRpDLzJ6hZ"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2ig6e6AvPnol0cIELQZx1h"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2ig6e6AvPnol0cIELQZx1h",
+        "id" : "2ig6e6AvPnol0cIELQZx1h",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2737f6cacbc963f903bd57783b7",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e027f6cacbc963f903bd57783b7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048517f6cacbc963f903bd57783b7",
+          "width" : 64
+        } ],
+        "name" : "Tripkolic (Dönme Artık Eski Günlere)",
+        "release_date" : "2010-12-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 9,
+        "type" : "album",
+        "uri" : "spotify:album:2ig6e6AvPnol0cIELQZx1h"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2aNkBNOpoEwJlRpDLzJ6hZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2aNkBNOpoEwJlRpDLzJ6hZ",
+        "id" : "2aNkBNOpoEwJlRpDLzJ6hZ",
+        "name" : "Seda Tripkolic",
+        "type" : "artist",
+        "uri" : "spotify:artist:2aNkBNOpoEwJlRpDLzJ6hZ"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 203632,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TR0321000023"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1243MNC9s5xQO9ZS56ECrc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1243MNC9s5xQO9ZS56ECrc",
+      "id" : "1243MNC9s5xQO9ZS56ECrc",
+      "is_local" : false,
+      "name" : "Gözlerinin Yeşilini Özledim",
+      "popularity" : 64,
+      "preview_url" : "https://p.scdn.co/mp3-preview/29e6348497493524899bb41167b4eaf3179b2aea?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1243MNC9s5xQO9ZS56ECrc"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3dYg8jwI7uSmXyk3TfYk9a"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3dYg8jwI7uSmXyk3TfYk9a",
+          "id" : "3dYg8jwI7uSmXyk3TfYk9a",
+          "name" : "Turkmen Mukamlary",
+          "type" : "artist",
+          "uri" : "spotify:artist:3dYg8jwI7uSmXyk3TfYk9a"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2XJar2sELmfQbyrtY30Phc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2XJar2sELmfQbyrtY30Phc",
+        "id" : "2XJar2sELmfQbyrtY30Phc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273adbc0a7ca0ea2f3781a70155",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02adbc0a7ca0ea2f3781a70155",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851adbc0a7ca0ea2f3781a70155",
+          "width" : 64
+        } ],
+        "name" : "Sen gözeliň ýary men - Gasan Mämmedow",
+        "release_date" : "2020-09-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:2XJar2sELmfQbyrtY30Phc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3dYg8jwI7uSmXyk3TfYk9a"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3dYg8jwI7uSmXyk3TfYk9a",
+        "id" : "3dYg8jwI7uSmXyk3TfYk9a",
+        "name" : "Turkmen Mukamlary",
+        "type" : "artist",
+        "uri" : "spotify:artist:3dYg8jwI7uSmXyk3TfYk9a"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 433240,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZK6F2079960"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4I0c3zZ9dhNHZnp5mubMLe"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4I0c3zZ9dhNHZnp5mubMLe",
+      "id" : "4I0c3zZ9dhNHZnp5mubMLe",
+      "is_local" : false,
+      "name" : "Dessan - Eýran sazy",
+      "popularity" : 0,
+      "preview_url" : "https://p.scdn.co/mp3-preview/26d092bb660fa6643d36a64003bfe32299862fda?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:4I0c3zZ9dhNHZnp5mubMLe"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3c1sTwL4HuWkrciiKHpnmx",
+          "id" : "3c1sTwL4HuWkrciiKHpnmx",
+          "name" : "Sparrow & Barbossa",
+          "type" : "artist",
+          "uri" : "spotify:artist:3c1sTwL4HuWkrciiKHpnmx"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6AwGQlrNSc9q7WI20Ojb6i"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6AwGQlrNSc9q7WI20Ojb6i",
+        "id" : "6AwGQlrNSc9q7WI20Ojb6i",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273bb850950b27fc9948e943cbc",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02bb850950b27fc9948e943cbc",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851bb850950b27fc9948e943cbc",
+          "width" : 64
+        } ],
+        "name" : "Réciprocité",
+        "release_date" : "2023-06-02",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:6AwGQlrNSc9q7WI20Ojb6i"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3c1sTwL4HuWkrciiKHpnmx",
+        "id" : "3c1sTwL4HuWkrciiKHpnmx",
+        "name" : "Sparrow & Barbossa",
+        "type" : "artist",
+        "uri" : "spotify:artist:3c1sTwL4HuWkrciiKHpnmx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PJbiVcg4F3A24dAAfDNnb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PJbiVcg4F3A24dAAfDNnb",
+        "id" : "6PJbiVcg4F3A24dAAfDNnb",
+        "name" : "Eyüpcan Açıkpazu",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PJbiVcg4F3A24dAAfDNnb"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 177560,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "MXF012300166"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Onu1MIP8vbmn1vkTrwZ4J"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Onu1MIP8vbmn1vkTrwZ4J",
+      "id" : "3Onu1MIP8vbmn1vkTrwZ4J",
+      "is_local" : false,
+      "name" : "Sen Gelmez Oldun",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a6165655edf4bba981809c4165683b40ea0a2ff3?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:3Onu1MIP8vbmn1vkTrwZ4J"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4TyHmEnit6x0P8xacyOHiT"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4TyHmEnit6x0P8xacyOHiT",
+          "id" : "4TyHmEnit6x0P8xacyOHiT",
+          "name" : "Yolcular",
+          "type" : "artist",
+          "uri" : "spotify:artist:4TyHmEnit6x0P8xacyOHiT"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5aUthn0ZuqYw5JvYtWs1Eh"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5aUthn0ZuqYw5JvYtWs1Eh",
+        "id" : "5aUthn0ZuqYw5JvYtWs1Eh",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732f62d58020eca9b748b8a356",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022f62d58020eca9b748b8a356",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512f62d58020eca9b748b8a356",
+          "width" : 64
+        } ],
+        "name" : "Seçkin İlahiler, Vol. 1",
+        "release_date" : "2002",
+        "release_date_precision" : "year",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:5aUthn0ZuqYw5JvYtWs1Eh"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4TyHmEnit6x0P8xacyOHiT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4TyHmEnit6x0P8xacyOHiT",
+        "id" : "4TyHmEnit6x0P8xacyOHiT",
+        "name" : "Yolcular",
+        "type" : "artist",
+        "uri" : "spotify:artist:4TyHmEnit6x0P8xacyOHiT"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 215902,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR2X41448342"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2cwlAULqxXwujvABfQeSKj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2cwlAULqxXwujvABfQeSKj",
+      "id" : "2cwlAULqxXwujvABfQeSKj",
+      "is_local" : false,
+      "name" : "Uyan Ey Gözlerim",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/079713d125577d04936129c684613ce905ca69cf?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:2cwlAULqxXwujvABfQeSKj"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6h5P3J0j1x2lhiDk9w4deZ",
+          "id" : "6h5P3J0j1x2lhiDk9w4deZ",
+          "name" : "Eypio",
+          "type" : "artist",
+          "uri" : "spotify:artist:6h5P3J0j1x2lhiDk9w4deZ"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2WWXaK9FtmoUfpOVVJIobz"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2WWXaK9FtmoUfpOVVJIobz",
+        "id" : "2WWXaK9FtmoUfpOVVJIobz",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27322314b66e98deb6a1482a296",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0222314b66e98deb6a1482a296",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485122314b66e98deb6a1482a296",
+          "width" : 64
+        } ],
+        "name" : "Sen",
+        "release_date" : "2017-11-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:2WWXaK9FtmoUfpOVVJIobz"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6h5P3J0j1x2lhiDk9w4deZ",
+        "id" : "6h5P3J0j1x2lhiDk9w4deZ",
+        "name" : "Eypio",
+        "type" : "artist",
+        "uri" : "spotify:artist:6h5P3J0j1x2lhiDk9w4deZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/18hpynG63scJYxOSDYHUVN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/18hpynG63scJYxOSDYHUVN",
+        "id" : "18hpynG63scJYxOSDYHUVN",
+        "name" : "Burak King",
+        "type" : "artist",
+        "uri" : "spotify:artist:18hpynG63scJYxOSDYHUVN"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 231219,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TR7251600075"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0iIdYx3RsPGzNxZuUBjuji"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0iIdYx3RsPGzNxZuUBjuji",
+      "id" : "0iIdYx3RsPGzNxZuUBjuji",
+      "is_local" : false,
+      "name" : "Sen",
+      "popularity" : 42,
+      "preview_url" : "https://p.scdn.co/mp3-preview/fc734531a49f2f7ecc18803fd75c51262c62971b?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0iIdYx3RsPGzNxZuUBjuji"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7KoyDRlXHKM8yRDr63ZDbj"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7KoyDRlXHKM8yRDr63ZDbj",
+          "id" : "7KoyDRlXHKM8yRDr63ZDbj",
+          "name" : "Nesrin Sipahi",
+          "type" : "artist",
+          "uri" : "spotify:artist:7KoyDRlXHKM8yRDr63ZDbj"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7gkaSdjMG2uYOsvI29I9RC"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7gkaSdjMG2uYOsvI29I9RC",
+        "id" : "7gkaSdjMG2uYOsvI29I9RC",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27328a235324b00b82d3e4b4ede",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0228a235324b00b82d3e4b4ede",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485128a235324b00b82d3e4b4ede",
+          "width" : 64
+        } ],
+        "name" : "Odeon Yılları (Türk Sanat Müziği Serisi)",
+        "release_date" : "2006-12-09",
+        "release_date_precision" : "day",
+        "total_tracks" : 16,
+        "type" : "album",
+        "uri" : "spotify:album:7gkaSdjMG2uYOsvI29I9RC"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7KoyDRlXHKM8yRDr63ZDbj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7KoyDRlXHKM8yRDr63ZDbj",
+        "id" : "7KoyDRlXHKM8yRDr63ZDbj",
+        "name" : "Nesrin Sipahi",
+        "type" : "artist",
+        "uri" : "spotify:artist:7KoyDRlXHKM8yRDr63ZDbj"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 220600,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TR0490600364"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5RpoaIUGufHfeDobp4nUWj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5RpoaIUGufHfeDobp4nUWj",
+      "id" : "5RpoaIUGufHfeDobp4nUWj",
+      "is_local" : false,
+      "name" : "Gözleri Aşka Gülen",
+      "popularity" : 49,
+      "preview_url" : "https://p.scdn.co/mp3-preview/e1b88571ebba100f46ec95fb2cd6fe03b38fd91f?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:5RpoaIUGufHfeDobp4nUWj"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/35ngoeYRyOveM0rPvahkot"
+          },
+          "href" : "https://api.spotify.com/v1/artists/35ngoeYRyOveM0rPvahkot",
+          "id" : "35ngoeYRyOveM0rPvahkot",
+          "name" : "Ekin Uzunlar",
+          "type" : "artist",
+          "uri" : "spotify:artist:35ngoeYRyOveM0rPvahkot"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/548Dx6yssEsnGSInmO5mve"
+        },
+        "href" : "https://api.spotify.com/v1/albums/548Dx6yssEsnGSInmO5mve",
+        "id" : "548Dx6yssEsnGSInmO5mve",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27334f322c050489fa5d24183a4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0234f322c050489fa5d24183a4",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485134f322c050489fa5d24183a4",
+          "width" : 64
+        } ],
+        "name" : "Göze Geldik",
+        "release_date" : "2018-06-15",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:548Dx6yssEsnGSInmO5mve"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/35ngoeYRyOveM0rPvahkot"
+        },
+        "href" : "https://api.spotify.com/v1/artists/35ngoeYRyOveM0rPvahkot",
+        "id" : "35ngoeYRyOveM0rPvahkot",
+        "name" : "Ekin Uzunlar",
+        "type" : "artist",
+        "uri" : "spotify:artist:35ngoeYRyOveM0rPvahkot"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 195772,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TRAVZ1800030"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0yJ9nDjtG7wP7BsnKzlxYX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0yJ9nDjtG7wP7BsnKzlxYX",
+      "id" : "0yJ9nDjtG7wP7BsnKzlxYX",
+      "is_local" : false,
+      "name" : "Göze Geldik",
+      "popularity" : 51,
+      "preview_url" : "https://p.scdn.co/mp3-preview/74eb09321305dac2d5ef2aae874847c6203a3bc1?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0yJ9nDjtG7wP7BsnKzlxYX"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3iVIrcJmrV7GawrxVWsBUF",
+          "id" : "3iVIrcJmrV7GawrxVWsBUF",
+          "name" : "Nilüfer",
+          "type" : "artist",
+          "uri" : "spotify:artist:3iVIrcJmrV7GawrxVWsBUF"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0HgKdzfUPxyN7GSWRVMBjW"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0HgKdzfUPxyN7GSWRVMBjW",
+        "id" : "0HgKdzfUPxyN7GSWRVMBjW",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2732ffb5ae6bbb0dd6e04dd1db8",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e022ffb5ae6bbb0dd6e04dd1db8",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048512ffb5ae6bbb0dd6e04dd1db8",
+          "width" : 64
+        } ],
+        "name" : "Sen Mühimsin",
+        "release_date" : "1990",
+        "release_date_precision" : "year",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:0HgKdzfUPxyN7GSWRVMBjW"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3iVIrcJmrV7GawrxVWsBUF",
+        "id" : "3iVIrcJmrV7GawrxVWsBUF",
+        "name" : "Nilüfer",
+        "type" : "artist",
+        "uri" : "spotify:artist:3iVIrcJmrV7GawrxVWsBUF"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 166960,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TR1290600172"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0I7i1YFChWL0G79Os00bes"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0I7i1YFChWL0G79Os00bes",
+      "id" : "0I7i1YFChWL0G79Os00bes",
+      "is_local" : false,
+      "name" : "Gözlerinin Hapsindeyim",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7a61172e5c4c33e62e7e0ce171bd5644926a085b?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:0I7i1YFChWL0G79Os00bes"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1tgfi3YYoeXKehnjKaMsOo",
+          "id" : "1tgfi3YYoeXKehnjKaMsOo",
+          "name" : "Nilipek.",
+          "type" : "artist",
+          "uri" : "spotify:artist:1tgfi3YYoeXKehnjKaMsOo"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7HknDhE87HanZZzcd5nSyL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7HknDhE87HanZZzcd5nSyL",
+        "id" : "7HknDhE87HanZZzcd5nSyL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273208943af657e8d68314ec8a6",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02208943af657e8d68314ec8a6",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851208943af657e8d68314ec8a6",
+          "width" : 64
+        } ],
+        "name" : "Gözleri Aşka Gülen",
+        "release_date" : "2018-04-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 2,
+        "type" : "album",
+        "uri" : "spotify:album:7HknDhE87HanZZzcd5nSyL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1tgfi3YYoeXKehnjKaMsOo",
+        "id" : "1tgfi3YYoeXKehnjKaMsOo",
+        "name" : "Nilipek.",
+        "type" : "artist",
+        "uri" : "spotify:artist:1tgfi3YYoeXKehnjKaMsOo"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 257142,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM4TW1831931"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4qzZm5EIdFurBpDieEmVc9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4qzZm5EIdFurBpDieEmVc9",
+      "id" : "4qzZm5EIdFurBpDieEmVc9",
+      "is_local" : false,
+      "name" : "Gözleri Aşka Gülen",
+      "popularity" : 52,
+      "preview_url" : "https://p.scdn.co/mp3-preview/17e125083a342191c2070ffeb402e9deac6b12a1?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4qzZm5EIdFurBpDieEmVc9"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5A0bKVFPUllYSoqG5Nq3f8"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5A0bKVFPUllYSoqG5Nq3f8",
+          "id" : "5A0bKVFPUllYSoqG5Nq3f8",
+          "name" : "Gözde Akuç",
+          "type" : "artist",
+          "uri" : "spotify:artist:5A0bKVFPUllYSoqG5Nq3f8"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5dAULSysr1TU1tunDlr57d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5dAULSysr1TU1tunDlr57d",
+          "id" : "5dAULSysr1TU1tunDlr57d",
+          "name" : "Deniz Yılmaz",
+          "type" : "artist",
+          "uri" : "spotify:artist:5dAULSysr1TU1tunDlr57d"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3PTZYj4C5rww2XALtnyqmh"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3PTZYj4C5rww2XALtnyqmh",
+        "id" : "3PTZYj4C5rww2XALtnyqmh",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273780b2e803819383287eb9af9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02780b2e803819383287eb9af9",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851780b2e803819383287eb9af9",
+          "width" : 64
+        } ],
+        "name" : "Gel Ey Seher",
+        "release_date" : "2021-01-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:3PTZYj4C5rww2XALtnyqmh"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5A0bKVFPUllYSoqG5Nq3f8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5A0bKVFPUllYSoqG5Nq3f8",
+        "id" : "5A0bKVFPUllYSoqG5Nq3f8",
+        "name" : "Gözde Akuç",
+        "type" : "artist",
+        "uri" : "spotify:artist:5A0bKVFPUllYSoqG5Nq3f8"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dAULSysr1TU1tunDlr57d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dAULSysr1TU1tunDlr57d",
+        "id" : "5dAULSysr1TU1tunDlr57d",
+        "name" : "Deniz Yılmaz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dAULSysr1TU1tunDlr57d"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 210000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QZFZ22151061"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/29ETnrnVnbHo24LVa6PQiz"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/29ETnrnVnbHo24LVa6PQiz",
+      "id" : "29ETnrnVnbHo24LVa6PQiz",
+      "is_local" : false,
+      "name" : "Gel Ey Seher",
+      "popularity" : 7,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ae703e716e8f0fcd0bfaf2846e6edd3871cc91f8?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:29ETnrnVnbHo24LVa6PQiz"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3Bk9LGH6J5RZqi5JPTKMNL"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3Bk9LGH6J5RZqi5JPTKMNL",
+          "id" : "3Bk9LGH6J5RZqi5JPTKMNL",
+          "name" : "Sergei Ardzinba",
+          "type" : "artist",
+          "uri" : "spotify:artist:3Bk9LGH6J5RZqi5JPTKMNL"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/15kovLsII4cNUw961e10tw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/15kovLsII4cNUw961e10tw",
+        "id" : "15kovLsII4cNUw961e10tw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27337a6bb7531bd850fb50d0555",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0237a6bb7531bd850fb50d0555",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485137a6bb7531bd850fb50d0555",
+          "width" : 64
+        } ],
+        "name" : "Ayrılık (Live)",
+        "release_date" : "2022-08-19",
+        "release_date_precision" : "day",
+        "total_tracks" : 5,
+        "type" : "album",
+        "uri" : "spotify:album:15kovLsII4cNUw961e10tw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Bk9LGH6J5RZqi5JPTKMNL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Bk9LGH6J5RZqi5JPTKMNL",
+        "id" : "3Bk9LGH6J5RZqi5JPTKMNL",
+        "name" : "Sergei Ardzinba",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Bk9LGH6J5RZqi5JPTKMNL"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 156349,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SE6XW2275756"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7nJhEr4kCbpetafyjL9MCN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7nJhEr4kCbpetafyjL9MCN",
+      "id" : "7nJhEr4kCbpetafyjL9MCN",
+      "is_local" : false,
+      "name" : "Sen Gelmez Oldun - Live",
+      "popularity" : 17,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d4da9ce1b68de78e5818a854584fb389939288dd?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:7nJhEr4kCbpetafyjL9MCN"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0ACoZOGStT6PgBo4t89eJS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0ACoZOGStT6PgBo4t89eJS",
+          "id" : "0ACoZOGStT6PgBo4t89eJS",
+          "name" : "Gülay Sezer",
+          "type" : "artist",
+          "uri" : "spotify:artist:0ACoZOGStT6PgBo4t89eJS"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3hCzb9w9EMn57IQGTLQ150"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3hCzb9w9EMn57IQGTLQ150",
+        "id" : "3hCzb9w9EMn57IQGTLQ150",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27368ba19c0c498e738b8638a08",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0268ba19c0c498e738b8638a08",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485168ba19c0c498e738b8638a08",
+          "width" : 64
+        } ],
+        "name" : "Damlalar",
+        "release_date" : "2000-12-22",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:3hCzb9w9EMn57IQGTLQ150"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ACoZOGStT6PgBo4t89eJS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ACoZOGStT6PgBo4t89eJS",
+        "id" : "0ACoZOGStT6PgBo4t89eJS",
+        "name" : "Gülay Sezer",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ACoZOGStT6PgBo4t89eJS"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 246339,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TR0330602854"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2qjjor4ZJkyWrYY0mFytdl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2qjjor4ZJkyWrYY0mFytdl",
+      "id" : "2qjjor4ZJkyWrYY0mFytdl",
+      "is_local" : false,
+      "name" : "Babuba",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/d36e6532b220225306c3cd7180e0e8a11e87f586?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:2qjjor4ZJkyWrYY0mFytdl"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2kJS5nap93CRPcTkwl3coT"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2kJS5nap93CRPcTkwl3coT",
+          "id" : "2kJS5nap93CRPcTkwl3coT",
+          "name" : "The Half",
+          "type" : "artist",
+          "uri" : "spotify:artist:2kJS5nap93CRPcTkwl3coT"
+        } ],
+        "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2Nioyxu38Y1NmgUdaTd6x2"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2Nioyxu38Y1NmgUdaTd6x2",
+        "id" : "2Nioyxu38Y1NmgUdaTd6x2",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d3bba93737311af5a93aa9ab",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d3bba93737311af5a93aa9ab",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d3bba93737311af5a93aa9ab",
+          "width" : 64
+        } ],
+        "name" : "Ey Gözəl",
+        "release_date" : "2018-07-29",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:2Nioyxu38Y1NmgUdaTd6x2"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kJS5nap93CRPcTkwl3coT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kJS5nap93CRPcTkwl3coT",
+        "id" : "2kJS5nap93CRPcTkwl3coT",
+        "name" : "The Half",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kJS5nap93CRPcTkwl3coT"
+      } ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "disc_number" : 1,
+      "duration_ms" : 203866,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEYOK1858373"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3HzgxFn1UPKi4fcwzveSAH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3HzgxFn1UPKi4fcwzveSAH",
+      "id" : "3HzgxFn1UPKi4fcwzveSAH",
+      "is_local" : false,
+      "name" : "Ey Gözəl",
+      "popularity" : 34,
+      "preview_url" : "https://p.scdn.co/mp3-preview/33cb86dede56875097cd4cb85aa0bc0d41036a67?cid=1fae401c5ca94b35bfb88e8012ab3f40",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3HzgxFn1UPKi4fcwzveSAH"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=sen+ey+gozel&type=track&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 805
+  }
+}

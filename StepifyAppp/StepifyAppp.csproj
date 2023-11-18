@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="StaticFiles\image.jpg" />
+    <None Remove="StaticFiles\spotify.png" />
+    <None Remove="StaticFiles\spotify_background.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DataBase\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.64.0.3205" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="SpotifyAPI.Web" Version="7.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="StaticFiles\image.jpg" />
+    <Resource Include="StaticFiles\spotify.png" />
+    <Resource Include="StaticFiles\spotify_background.jpg" />
+  </ItemGroup>
+
+</Project>

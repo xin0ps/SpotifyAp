@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepifyAppp", "StepifyAppp\StepifyAppp.csproj", "{04D2FDDD-79EC-4442-B23B-4219A0857306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D2FDDD-79EC-4442-B23B-4219A0857306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D2FDDD-79EC-4442-B23B-4219A0857306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D2FDDD-79EC-4442-B23B-4219A0857306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D2FDDD-79EC-4442-B23B-4219A0857306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3130A3DC-E136-4CDA-89C6-E6D34F5FF348}
+	EndGlobalSection
+EndGlobal
