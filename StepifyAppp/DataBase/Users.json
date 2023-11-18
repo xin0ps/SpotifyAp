@@ -62,5 +62,33 @@
     "Surname": "Test",
     "Email": "test@gmail.com",
     "Password": "Test123!"
+  },
+  {
+    "Libraries": [
+      {
+        "LibraryName": "First",
+        "LibrarySongs": []
+      },
+      {
+        "LibraryName": "Second",
+        "LibrarySongs": []
+      },
+      {
+        "LibraryName": "Third",
+        "LibrarySongs": []
+      },
+      {
+        "LibraryName": "salam",
+        "LibrarySongs": []
+      },
+      {
+        "LibraryName": "test",
+        "LibrarySongs": []
+      }
+    ],
+    "Name": "Rasul",
+    "Surname": "Aslanov",
+    "Email": "elesgerli.kamran@gmail.com",
+    "Password": "Resul123!"
   }
 ]

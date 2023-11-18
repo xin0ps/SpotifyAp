@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPOFEdP3b7jXC6omg59P1ZhnMQapoGA+abodsS2POUVxmP/qxSoGXHOYeY6r2qxldQfHFjQZPF7twoSG+35PMg==",
+  "dgSpecHash": "8Vty4N6BKMqHr0BVu87OeaTxxKXh2SE9hyuXvMcAzuP39FF3RjdMaKV79Ayeg4+n8J3hZ3C2NmJ+npdyCNKRhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ROG\\source\\repos\\StepifyAppp\\StepifyAppp\\StepifyAppp.csproj",
+  "projectFilePath": "C:\\Users\\ROG\\Desktop\\StepifyAppp\\StepifyAppp\\StepifyAppp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ROG\\.nuget\\packages\\fontawesome.wpf\\4.7.0.9\\fontawesome.wpf.4.7.0.9.nupkg.sha512",
     "C:\\Users\\ROG\\.nuget\\packages\\google.apis\\1.64.0\\google.apis.1.64.0.nupkg.sha512",

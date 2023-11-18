@@ -537,11 +537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ROG\\source\\repos\\StepifyAppp\\StepifyAppp\\StepifyAppp.csproj",
+      "projectUniqueName": "C:\\Users\\ROG\\Desktop\\StepifyAppp\\StepifyAppp\\StepifyAppp.csproj",
       "projectName": "StepifyAppp",
-      "projectPath": "C:\\Users\\ROG\\source\\repos\\StepifyAppp\\StepifyAppp\\StepifyAppp.csproj",
+      "projectPath": "C:\\Users\\ROG\\Desktop\\StepifyAppp\\StepifyAppp\\StepifyAppp.csproj",
       "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ROG\\source\\repos\\StepifyAppp\\StepifyAppp\\obj\\",
+      "outputPath": "C:\\Users\\ROG\\Desktop\\StepifyAppp\\StepifyAppp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",

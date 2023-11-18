@@ -1,64 +1,28 @@
 {
   "Libraries": [
     {
-      "LibraryName": "xzcx",
+      "LibraryName": "First",
       "LibrarySongs": []
     },
     {
-      "LibraryName": "new",
+      "LibraryName": "Second",
       "LibrarySongs": []
     },
     {
-      "LibraryName": "add",
+      "LibraryName": "Third",
       "LibrarySongs": []
     },
     {
-      "LibraryName": "Add2",
+      "LibraryName": "salam",
       "LibrarySongs": []
     },
     {
-      "LibraryName": "Add3",
-      "LibrarySongs": []
-    },
-    {
-      "LibraryName": "Add4",
-      "LibrarySongs": []
-    },
-    {
-      "LibraryName": "Add5",
-      "LibrarySongs": []
-    },
-    {
-      "LibraryName": "Add6",
-      "LibrarySongs": []
-    },
-    {
-      "LibraryName": null,
-      "LibrarySongs": []
-    },
-    {
-      "LibraryName": "add7",
-      "LibrarySongs": []
-    },
-    {
-      "LibraryName": "sadas",
-      "LibrarySongs": []
-    },
-    {
-      "LibraryName": "sadsa",
-      "LibrarySongs": []
-    },
-    {
-      "LibraryName": "sadsada",
-      "LibrarySongs": []
-    },
-    {
-      "LibraryName": "Hello World",
+      "LibraryName": "test",
       "LibrarySongs": []
     }
   ],
-  "Name": "Test",
-  "Surname": "Test",
-  "Email": "test@gmail.com",
-  "Password": "Test123!"
+  "Name": "Rasul",
+  "Surname": "Aslanov",
+  "Email": "elesgerli.kamran@gmail.com",
+  "Password": "Resul123!"
 }
