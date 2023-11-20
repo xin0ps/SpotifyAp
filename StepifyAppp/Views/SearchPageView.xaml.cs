@@ -1,14 +1,20 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using Google.Apis.YouTube.v3.Data;
+using Newtonsoft.Json.Linq;
 using StepifyAppp.Api;
 using StepifyAppp.Models;
 using StepifyAppp.Services;
 using StepifyAppp.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.ComponentModel;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Net.Http;
+using System.Runtime.CompilerServices;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -27,12 +33,47 @@ namespace StepifyAppp.Views
     /// <summary>
     /// Interaction logic for SearchPageView.xaml
     /// </summary>
-    public partial class SearchPageView : Page
+    public partial class SearchPageView : Page,INotifyPropertyChanged
     {
+        private User user;
+
+        public User User
+        {
+            get { return user; }
+            set { user = value;OnPropertyChanged(); }
+        }
+
+        private ObservableCollection<User> users;
+        public ObservableCollection<User> Users { get => users; set { users = value; OnPropertyChanged(); } }
+        public void Writedata()
+        {
+            string data = JsonSerializer.Serialize(Users, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText("../../../DataBase/Users.json", data);
+
+        }
+        public void LoadUsers()
+        {
+            string existing = File.ReadAllText("../../../DataBase/Users.json");
+            Users = JsonSerializer.Deserialize<ObservableCollection<User>>(existing);
+        }
+
+        public void WriteUser()
+        {
+            string data = JsonSerializer.Serialize(user, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText("../../../DataBase/LoginedUser.json", data);
+        }
+
+
+        public void LoadUser()
+        {
+            string existing = File.ReadAllText("../../../DataBase/LoginedUser.json");
+            User = JsonSerializer.Deserialize<User>(existing);
+        }
         public SearchPageView()
         {
             InitializeComponent();
-            
+            LoadUser();
+            LoadUsers();
         }
         private const string SpotifyApiBaseUrl = "https://api.spotify.com/v1/search";
         private const string ClientId = "bcb74730584f4e51b4081d1eb26caf94"; 
@@ -108,6 +149,10 @@ namespace StepifyAppp.Views
             }
         }
         public List<Track> tr = new List<Track>();
+
+        public event PropertyChangedEventHandler? PropertyChanged;
+        public void OnPropertyChanged([CallerMemberName] string? propertyName = null) => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+
         private List<Track> ParseTracks(string result)
 
         {
@@ -166,9 +211,6 @@ namespace StepifyAppp.Views
             }
         }
 
-        private void savePlaylist(object sender, RoutedEventArgs e)
-        {
-
-        }
+       
     }
 }

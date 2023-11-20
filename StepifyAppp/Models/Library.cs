@@ -37,8 +37,12 @@ namespace StepifyAppp.Models
         public Library(string libraryName)
         {
             LibraryName = libraryName;
-            LibrarySongs= new List<Track>();
           
+          
+        }
+        public override string ToString()
+        {
+            return LibraryName;
         }
     }
 }

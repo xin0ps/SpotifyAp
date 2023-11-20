@@ -156,14 +156,38 @@
             <!-- Other Grid -->
             <Border  Background="#000000" Grid.Row="1" Grid.Column="1" CornerRadius="10" Margin="3">
                 <Grid>
+
+                    <Label  HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,10,0,0" 
+                            Content="{Binding Songname}" Foreground="White" FontSize="20" FontWeight="ExtraBold"  />
+
                     <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal" >
                         <Button Height="50" Background="Transparent" BorderBrush="Transparent">
                             <fontaw:FontAwesome Icon="Backward" FontSize="30"/>
 
                         </Button>
-                        <Button Height="50" Background="Transparent" BorderBrush="Transparent">
-                            <fontaw:FontAwesome Icon="Play" FontSize="30"/>
-
+                        <Button Foreground="white" Command="{Binding PlayMusic}" 
+        CommandParameter="{Binding RelativeSource={RelativeSource Self}}" 
+        Height="50" Background="Transparent" BorderBrush="Transparent">
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding IsPlaying}" Value="True">
+                                            <Setter Property="Content">
+                                                <Setter.Value>
+                                                    <fontaw:FontAwesome Icon="Pause" FontSize="30"/>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding IsPlaying}" Value="False">
+                                            <Setter Property="Content">
+                                                <Setter.Value>
+                                                    <fontaw:FontAwesome Icon="Play" FontSize="30"/>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
                         </Button>
                         <Button Height="50" Background="Transparent" BorderBrush="Transparent">
                             <fontaw:FontAwesome Icon="Forward" FontSize="30"/>
@@ -173,7 +197,7 @@
 
                     </StackPanel>
 
-                    <Slider Height="100" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,100,0"
+                    <!--<Slider Height="100" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,100,0"
                           Orientation="Vertical"
                           Minimum="0"
                           Maximum="100"
@@ -181,13 +205,17 @@
                             Foreground="White"
                           Style="{StaticResource MaterialDesignDiscreteSlider}"
                           TickFrequency="{Binding DiscreteVertical.TickFrequency}"
-                          TickPlacement="BottomRight" />
+                          TickPlacement="BottomRight" />-->
 
-                    <Slider Foreground="White" Width="800" VerticalAlignment="Center" Margin="0,100,0,0" 
-                          Minimum="0"
-                          Maximum="100"
-                          Value="0" />
-                    
+
+                    <Slider Foreground="White" Width="800" Margin="100,90,0,0"
+                     Minimum="0"
+                     Maximum="{Binding Alltime}"
+                     Value="{Binding Nowtime}" />
+
+                    <Label Margin="220,70,0,0" Content="{Binding Nowtime}" Foreground="White" FontSize="16"/>
+                    <Label Margin="1120,70,0,0"  Content="{Binding Alltime}" Foreground="White" FontSize="16"/>
+
                 </Grid>
             </Border>
             <Border  Background="#000000" Grid.Row="1" Grid.Column="0" CornerRadius="10"  Margin="3">

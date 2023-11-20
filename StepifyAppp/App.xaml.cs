@@ -16,14 +16,14 @@ namespace StepifyAppp
     {
         public void Main(object sender, StartupEventArgs e)
         {
-            //MainWindowView main = new();
-            //main.ShowDialog();
+            MainWindowView main = new();
+            main.ShowDialog();
             //LoginPageView login = new LoginPageView();
             //login.ShowDialog();
             //Register register= new Register();
             //register.ShowDialog();
-            FirstWindow first = new FirstWindow();
-            first.ShowDialog();
+            //FirstWindow first = new FirstWindow();
+            //first.ShowDialog();
         }
     }
 }

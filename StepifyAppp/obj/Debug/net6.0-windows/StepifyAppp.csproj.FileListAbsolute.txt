@@ -100,3 +100,10 @@ C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\obj\Debug\net6.0-windows\StepifyApp
 C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\obj\Debug\net6.0-windows\StepifyAppp.csproj.CopyComplete
 C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\obj\Debug\net6.0-windows\StepifyAppp.genruntimeconfig.cache
 C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\obj\Debug\net6.0-windows\ref\StepifyAppp.dll
+C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\ROG\Desktop\StepifyAppp\StepifyAppp\bin\Debug\net6.0-windows\NAudio.WinMM.dll
